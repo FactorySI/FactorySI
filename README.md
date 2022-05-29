@@ -1,4 +1,9 @@
-## Seja bem vindo a FactorySI® Soluções Integradas
+
+<div align="center">
+   <h3>Seja bem vindo a FactorySI® Soluções Integradas</h3>
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -9,6 +14,8 @@
   <img align="center" width="95%" src="https://activity-graph.herokuapp.com/graph?username=FactorySI&theme=dracula"/>
 
 </div>
+
+<br/>
 
 <div align="center">
     <img align="center" width="8%" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
