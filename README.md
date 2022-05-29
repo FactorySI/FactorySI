@@ -9,7 +9,7 @@
   <img align="center" width="95%" src="https://activity-graph.herokuapp.com/graph?username=FactorySI&theme=dracula"/>
 
 </div>
-##
+
 <div align="center">
     <img align="center" width="8%" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
     <img align="center" width="10%" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
