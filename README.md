@@ -6,7 +6,7 @@
   
 <img align="lef" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FactorySI&layout=compact&langs_count=7&theme=dracula"/>
 
-<img align="lef" width="50%" src="https://activity-graph.herokuapp.com/graph?username=FactorySI&theme=dracula"/>
+<img align="center" width="95%" src="https://activity-graph.herokuapp.com/graph?username=FactorySI&theme=dracula"/>
 
 </div>
 ##
