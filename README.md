@@ -2,9 +2,12 @@
 
 <div align="center">
   <a href="https://github.com/FactorySI">
-  <img  src="https://github-readme-stats.vercel.app/api?username=factorysi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img  height="130"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=factorysi&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="lef" width="47%" src="https://github-readme-stats.vercel.app/api?username=FactorySI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ 
+<img align="lef" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FactorySI&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="FactorySI-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
